@@ -7,7 +7,7 @@ include ('conn.php');
 
 <head>
     <meta charset="utf-8">
-    <title>BIGBREW - MILKTEA </title>
+    <title>BIGBREW - Coffeee </title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="Free Website Template" name="keywords">
     <meta content="Free Website Template" name="description">
